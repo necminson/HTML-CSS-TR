@@ -1,0 +1,17 @@
+
+*{
+    color: blue;
+}
+h1{
+    color: red;
+}
+
+/* class seçicileri */
+.paragraf{
+    text-align: center;
+}
+
+  /* id seçicileri */
+#p1{
+    background-color: aqua;
+}
